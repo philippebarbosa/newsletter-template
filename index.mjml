@@ -1,0 +1,185 @@
+<mjml>
+  <mj-body>
+    <mj-container background-color="#fff">
+
+      <!-- Header -->
+      <mj-section padding-bottom="0" background-color="#09c9b4">
+        <mj-column width="100%">
+          <mj-image src="https://gallery.mailchimp.com/7c4a0af384e6668c48d1dc659/images/e35250cf-1391-4b80-9c59-c474181e2f9d.png" width="300px"/>
+            <mj-divider
+                horizontal-spacing="0"
+                vertical-spacing="0"
+                padding-top="20"
+                padding-bottom="0"
+                padding-left="0"
+                padding-right="0"
+                border-width="1px"
+                border-color="#f8f8f8"/>
+        </mj-column>
+      </mj-section>
+
+      <!-- Baseline -->
+      <mj-section padding-bottom="0" background-color="#fcfcfc">
+        <mj-column width="100%">
+          <mj-text align="center" font-size="20" color="#6b6b6b" font-family="Helvetica Neue" font-weight="200">
+          Bienvenue sur ma newsletter !
+            </mj-text>
+            <mj-divider
+                horizontal-spacing="0"
+                vertical-spacing="0"
+                padding-top="20"
+                padding-bottom="0"
+                padding-left="0"
+                padding-right="0"
+                border-width="1px"
+                border-color="#f8f8f8"/>
+        </mj-column>
+      </mj-section>
+
+      <!-- Full width text -->
+      <mj-section background-color="#fafafa">
+            <mj-column width="100%">
+
+              <mj-text font-size="20"
+                       font-weight="bold"
+                       font-family="Helvetica Neue"
+                       color="#000">
+                       Titre du paragraphe
+              </mj-text>
+
+              <mj-text color="#525252">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu <a href="http://www.philippebarbosa.com" target="_blank" style="color:#09c9b4; text-decoration:none;font-weight:bold;">semper augue semper</a>. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
+              </mj-text>
+
+              <mj-button background-color="#09c9b4" href="http://www.philippebarbosa.com">Click button</mj-button>
+
+              <mj-text font-size="20"
+                       font-weight="bold"
+                       font-family="Helvetica Neue"
+                       color="#000">
+                       Un autre paragraphe
+              </mj-text>
+
+              <mj-text color="#525252">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
+              </mj-text>
+            </mj-column>
+
+            <mj-column width="100%">
+              <mj-image src="https://gallery.mailchimp.com/7c4a0af384e6668c48d1dc659/images/3c5a861a-9797-4c30-b460-e61d0acb8f49.jpg"/>
+            </mj-column>
+
+            <mj-column width="100%">
+              <mj-image src="https://gallery.mailchimp.com/7c4a0af384e6668c48d1dc659/images/2b9285f1-8171-4178-ba77-94da68f3cb60.jpg"/>
+            </mj-column>
+
+            <mj-column width="100%">
+              <mj-image src="https://gallery.mailchimp.com/7c4a0af384e6668c48d1dc659/images/76ed3ca7-51fe-4aff-b622-5c0ed76f8153.jpg"/>
+            </mj-column>
+      </mj-section>
+
+      <!-- Push text -->
+      <mj-section background-color="#f3f3f3">
+            <mj-column width="500">
+
+              <mj-text font-style="italic"
+                       font-size="20"
+                       font-family="Helvetica Neue"
+                       color="#000">Vous aussi avez besoin d'une prestation photographique ?</mj-text>
+
+                <mj-text color="#6b6b6b">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
+              </mj-text>
+
+                <mj-button background-color="#09c9b4"
+                         href="http://www.philippebarbosa.com/contact/">Contactez moi ici !</mj-button>
+
+        </mj-column>
+      </mj-section>
+
+      <!-- Titre avec images -->
+      <mj-section padding-bottom="0" padding-bottom="0" background-color="#fff">
+        <mj-column>
+          <mj-text font-size="20" color="#585858">
+              L'IMAGE DU MOIS
+            </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" background-color="#fcfcfc">
+        <mj-column width="100%">
+          <mj-image src="https://gallery.mailchimp.com/7c4a0af384e6668c48d1dc659/images/843178b9-9c2f-471f-bfcd-e37fc106aa30.jpg"/>
+        </mj-column>
+        <mj-column width="100%">
+              <mj-text font-style="italic"
+                       font-size="14"
+                       font-family="Helvetica Neue"
+                       color="#626262">La légende de l'image avec un peu de description</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Titre avec images -->
+      <mj-section padding-bottom="0" padding-bottom="0" background-color="#f3f3f3">
+        <mj-column>
+          <mj-text font-size="20" color="#585858">
+              LE SITE DU MOIS
+            </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" background-color="#f3f3f3">
+        <mj-column width="100%">
+          <mj-image src="https://gallery.mailchimp.com/7c4a0af384e6668c48d1dc659/images/740b5305-0a3d-4d91-b730-21c6526d1dbd.jpg"/>
+        </mj-column>
+        <mj-column width="100%">
+              <mj-text font-style="italic"
+                       font-size="14"
+                       font-family="Helvetica Neue"
+                       color="#626262">Ma dernière realisation blah blah bla</mj-text>
+
+              <mj-button background-color="#09c9b4" href="http://www.philippebarbosa.com">VOIR LE SITE</mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Push link -->
+      <mj-section background-color="#fcfcfc">
+        <mj-column width="200">
+          <mj-image src="http://www.philippebarbosa.com/wp-content/uploads/2015/12/appdays2015_028_creditphoto_philippebarbosa.jpg" width="200"/>
+        </mj-column>
+        <mj-column width="280">
+          <mj-text align="left" font-size="20" color="grey">
+              Titre de l'article ici !
+            </mj-text>
+            <mj-text align="left" color="grey">
+          description de l'article : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            </mj-text>
+
+            <mj-button background-color="#09c9b4" href="http://www.philippebarbosa.com">LIEN ICI !</mj-button>
+
+        </mj-column>
+      </mj-section>
+
+      <!-- Social -->
+      <mj-section padding-top="0" padding-bottom="0" background-color="#efefef">
+        <mj-column>
+          <mj-text font-size="16" color="#09c9b4">
+              Retrouvez moi sur
+            </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#efefef" padding-bottom="0" padding-top="0">
+        <mj-column width="33.33333333333333%" vertical-align="top">
+          <mj-button background-color="#09c9b4" color="#fff" href="https://twitter.com/philippebarbosa">Twitter</mj-button>
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="top">
+          <mj-button background-color="#09c9b4" color="#fff" href="https://www.instagram.com/photographil/">Instagram</mj-button>
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="top">
+          <mj-button background-color="#09c9b4" color="#fff" href="https://fr.linkedin.com/in/philippebarbosa">Linkedin</mj-button>
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>
+
