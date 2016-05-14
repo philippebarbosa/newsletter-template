@@ -5,7 +5,7 @@
       <!-- Header -->
       <mj-section padding-bottom="0" background-color="#09c9b4">
         <mj-column width="100%">
-          <mj-image src="https://gallery.mailchimp.com/7c4a0af384e6668c48d1dc659/images/e35250cf-1391-4b80-9c59-c474181e2f9d.png" width="300px"/>
+          <mj-image src="https://gallery.mailchimp.com/7c4a0af384e6668c48d1dc659/images/e35250cf-1391-4b80-9c59-c474181e2f9d.png" width="300px" alt="Logo Philippe Barbosa" />
             <mj-divider
                 horizontal-spacing="0"
                 vertical-spacing="0"
