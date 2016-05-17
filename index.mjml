@@ -2,6 +2,14 @@
   <mj-body>
     <mj-container background-color="#fff">
 
+      <mj-section background-color="#fcfcfc">
+        <mj-column width="100%">
+          <mj-text align="center" font-size="10" color="#6b6b6b" font-family="Helvetica Neue" font-weight="200">
+              Des difficultés à lire ce mail ? <a href="" target="_blank" title="Voir en ligne"> Voir en ligne </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
       <!-- Header -->
       <mj-section padding-bottom="0" background-color="#09c9b4">
         <mj-column width="100%">
