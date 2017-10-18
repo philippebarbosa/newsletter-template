@@ -79,8 +79,14 @@
             </mj-column>
 
             <mj-column width="100%">
+              <mj-image src="http://barbo.sa.com/BTeupW+" width="200px" align="right" padding-top="60px" padding-bottom="60px"/>
+            </mj-column>
+
+            <mj-column width="100%">
               <mj-image src="https://www.philippebarbosa.com/app/uploads/2017/09/okari-spa-10-Credit-PhilippeBarbosa-960x640.jpg"/>
             </mj-column>
+
+
       </mj-section>
 
 
@@ -92,14 +98,14 @@
                        align="center"
                        font-weight="bold"
                        font-family="Montserrat"
-                       color="#000">VOUS AUSSI AVEZ BESOIN D'UNE PRESTATION PHOTOGRAPHIQUE ?</mj-text>
+                       color="#000">VOUS AUSSI AVEZ BESOIN D'UN PHOTOGRAPHE ?</mj-text>
 
                 <mj-text font-family="Roboto Slab" color="#6a6262" font-size="14px" align="center">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
+                    Je suis disponible pour écouter votre projet et établir un devis
               </mj-text>
 
                 <mj-button background-color="#ffffff"
-                           href="http://www.philippebarbosa.com/contact/"
+                           href="https://www.philippebarbosa.com/contact/"
                            font-family="Montserrat"
                            color="black">
                     CONTACTEZ MOI ICI !
