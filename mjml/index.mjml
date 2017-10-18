@@ -1,0 +1,114 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Roboto Slab" href="https://fonts.googleapis.com/css?family=Roboto+Slab" />
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css?family=Montserrat:900" />
+  </mj-head>
+  <mj-body>
+    <mj-container background-color="#fff">
+
+
+      <mj-section full-width="full-width" background-color="#f8f4f4">
+        <mj-column width="100%">
+          <mj-text align="center" font-size="10" color="#6b6b6b" font-family="Helvetica Neue" font-weight="200">
+              Des difficultés à lire ce mail ? <a href="" target="_blank" title="Voir en ligne"> Voir en ligne </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Header -->
+      <mj-section full-width="full-width" padding-bottom="0" background-color="#60ed8e">
+        <mj-column width="100%">
+          <mj-image src="http://barbo.sa.com/pgUDcs+" width="50px"/>
+
+            <mj-divider
+                padding-top="20"
+                padding-bottom="0"
+                padding-left="0"
+                padding-right="0"
+                border-width="1px"
+                border-color="#f8f8f8"/>
+        </mj-column>
+      </mj-section>
+
+      <!-- Baseline -->
+      <mj-section full-width="full-width" padding-bottom="0" background-color="#fff">
+        <mj-column width="100%">
+          <mj-text align="center" font-size="20" color="#6a6262" font-family="Roboto Slab" font-weight="200">
+          Bienvenue sur ma newsletter !
+            </mj-text>
+            <mj-divider
+                horizontal-spacing="0"
+                vertical-spacing="0"
+                padding-top="20"
+                padding-bottom="0"
+                padding-left="0"
+                padding-right="0"
+                border-width="1px"
+                border-color="#f8f8f8"/>
+        </mj-column>
+      </mj-section>
+
+      <!-- Full width text -->
+      <mj-section full-width="full-width" background-color="#f8f4f4">
+            <mj-column width="100%">
+
+              <mj-text font-size="20"
+                       font-family="Montserrat"
+                       color="#000">
+                       TITRE DU PARAGRAPHE
+              </mj-text>
+
+              <mj-text font-family="Roboto Slab" color="#6a6262">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu
+                    <a href="http://www.philippebarbosa.com" target="_blank" style="color:#60ed8e; text-decoration:none;font-weight:bold;">semper augue semper</a>.
+                    Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
+              </mj-text>
+
+              <mj-button background-color="#60ed8e" color="black" align="center" width="200px" padding-top="40px" padding-bottom="40px" font-family="Montserrat" href="http://www.philippebarbosa.com">CLICK ME</mj-button>
+
+              <mj-text font-size="20"
+                       font-family="Montserrat"
+                       color="#000">
+                       UN AUTRE PARAGRAPHE
+              </mj-text>
+
+              <mj-text font-family="Roboto Slab" color="#6a6262">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
+              </mj-text>
+            </mj-column>
+
+            <mj-column width="100%">
+              <mj-image src="https://www.philippebarbosa.com/app/uploads/2017/09/okari-spa-10-Credit-PhilippeBarbosa-960x640.jpg"/>
+            </mj-column>
+      </mj-section>
+
+
+      <!-- Push text -->
+      <mj-section full-width="full-width" background-color="#60ed8e">
+            <mj-column width="500">
+
+              <mj-text font-size="20"
+                       align="center"
+                       font-weight="bold"
+                       font-family="Montserrat"
+                       color="#000">VOUS AUSSI AVEZ BESOIN D'UNE PRESTATION PHOTOGRAPHIQUE ?</mj-text>
+
+                <mj-text font-family="Roboto Slab" color="#6a6262" font-size="14px" align="center">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
+              </mj-text>
+
+                <mj-button background-color="#ffffff"
+                           href="http://www.philippebarbosa.com/contact/"
+                           font-family="Montserrat"
+                           color="black">
+                    CONTACTEZ MOI ICI !
+                </mj-button>
+
+        </mj-column>
+
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
+
