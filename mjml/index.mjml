@@ -61,7 +61,7 @@
 
               <mj-text font-family="Roboto Slab" color="#6a6262">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu
-                    <a href="http://www.philippebarbosa.com" target="_blank" style="color:#60ed8e; text-decoration:none;font-weight:bold;">semper augue semper</a>.
+                    <a href="http://www.philippebarbosa.com" target="_blank" style="color:#60ed8e; text-decoration:none;">semper augue semper</a>.
                     Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
               </mj-text>
 
@@ -79,14 +79,12 @@
             </mj-column>
 
             <mj-column width="100%">
-              <mj-image src="http://barbo.sa.com/BTeupW+" width="200px" align="right" padding-top="60px" padding-bottom="60px"/>
+              <mj-image src="http://barbo.sa.com/BTeupW+" width="110px" align="right" padding-top="60px" padding-bottom="60px"/>
             </mj-column>
 
             <mj-column width="100%">
               <mj-image src="https://www.philippebarbosa.com/app/uploads/2017/09/okari-spa-10-Credit-PhilippeBarbosa-960x640.jpg"/>
             </mj-column>
-
-
       </mj-section>
 
 
