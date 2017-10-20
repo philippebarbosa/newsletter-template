@@ -23,15 +23,14 @@ var paths = {
 
 // Tasks
 
-gulp.task('browserSync', function() {
-  browserSync({
-      proxy: {
-        // Enter your dev environment proxy
-        // target: "localhost:8888/yourproject/output"
-        target: "newsletter.tpl"
-      }
+// Static server
+gulp.task('browser-sync', function() {
+    browserSync.init({
+        server: {
+            baseDir: "output/"
+        }
     });
-  });
+});
 
 gulp.task('watch', function() {
   gulp.watch(paths.html.src, ['html']).on('change', reload);
@@ -44,4 +43,4 @@ gulp.task('html', function() {
     .pipe(gulp.dest(paths.html.dest))
 });
 
-gulp.task('default', ['browserSync','watch']);
+gulp.task('default', ['browser-sync','watch']);
